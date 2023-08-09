@@ -1,5 +1,3 @@
-* I build and sell mobile software on the Internet since iOS 14. (https://apps.apple.com/us/developer/thinh-nguyen/id1475297118)
-
 * Native iOS (ObjC & Swift)
 * Native Android (Kotlin & Java)
 * Cross-Platform (React Native, Flutter, Xamarin)
